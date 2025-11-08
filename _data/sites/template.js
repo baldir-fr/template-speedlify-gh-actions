@@ -1,6 +1,6 @@
 module.exports = {
 	name: "template",
-	description: "Le modèle à partir duquel les étudiant-e-s de la promo B1 2025 de l'école Coda Dijon on développé leur projet de groupe.",
+	description: "Modèle point de départ des projets",
 	options: {
 		runs: 1,
 		frequency: 1

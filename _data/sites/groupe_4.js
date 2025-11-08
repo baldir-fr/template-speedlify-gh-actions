@@ -1,6 +1,6 @@
 module.exports = {
     name: "groupe_4",
-    description: "Projet de groupe HTML/CSS pour le groupe 4.",
+    description: "Projet HTML du groupe 4",
     options: {
         runs: 1, // Run sample every time
         frequency: 30, // Every 30 minutes
