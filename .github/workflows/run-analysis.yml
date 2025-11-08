@@ -2,7 +2,7 @@ name: Speedlify — scan & publish
 
 on:
   schedule:
-    - cron: "0 12 */3 * *"  # tous les 3 jours
+    - cron: "0,30 8-18 8-14 11 *"  # Du 8 au 14 de novembre, toutes les 30 minutes entre 9h et 19h
   workflow_dispatch: {}
 
 permissions:
