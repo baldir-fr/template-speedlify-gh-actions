@@ -3,6 +3,8 @@ name: Deploy Pages
 on:
   push:
     branches: ["live"]
+  schedule:
+    - cron: "0,15,30,45 8-18 8-14 11 *"  # Du 8 au 14 de novembre, toutes les 15 minutes entre 9h et 19h
   workflow_dispatch:
 
 permissions:
