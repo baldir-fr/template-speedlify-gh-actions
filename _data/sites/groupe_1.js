@@ -6,5 +6,7 @@ module.exports = {
         frequency: 30, // Every 30 minutes
         freshChrome: "site" // Use "site" if sites are all on the same origin and share assets.
     },
-    urls: ["https://coda-school.github.io/25-html-g1"]
+    urls: [
+        "https://coda-school.github.io/25-html-g1/", // Ne pas oublier trailing slash
+    ]
 };
