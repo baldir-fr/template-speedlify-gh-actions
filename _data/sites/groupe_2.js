@@ -1,6 +1,6 @@
 module.exports = {
     name: "25-html-g2",
-    description: "2025 B1 - Projet HTML du groupe 2",
+    description: "Groupe 2 - Casino en ligne",
     options: {
         runs: 1, // Run sample every time
         frequency: 30, // Every 30 minutes

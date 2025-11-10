@@ -1,6 +1,6 @@
 module.exports = {
     name: "25-html-g5",
-    description: "2025 B1 - Projet HTML du groupe 5",
+    description: "Groupe 5 - Tier List",
     options: {
         runs: 1, // Run sample every time
         frequency: 30, // Every 30 minutes
