@@ -8,5 +8,7 @@ module.exports = {
     },
     urls: [
         "https://coda-school.github.io/25-html-g3/", // Ne pas oublier trailing slash
+        "https://coda-school.github.io/25-html-g3/struct/contact.html",
+        "https://coda-school.github.io/25-html-g3/struct/article.html",
     ]
 };

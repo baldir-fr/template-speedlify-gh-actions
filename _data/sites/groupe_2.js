@@ -11,5 +11,8 @@ module.exports = {
         "https://coda-school.github.io/25-html-g2/Slot-machine.html",
         "https://coda-school.github.io/25-html-g2/Roulette.html",
         "https://coda-school.github.io/25-html-g2/Box.html",
+        "https://coda-school.github.io/25-html-g2/Samuel/",
+        "https://coda-school.github.io/25-html-g2/Samuel/Login.html",
+        "https://coda-school.github.io/25-html-g2/Samuel/Signup.html",
     ]
 };
