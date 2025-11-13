@@ -11,6 +11,7 @@ module.exports = {
         "https://coda-school.github.io/25-html-g5/charlie/",
         "https://coda-school.github.io/25-html-g5/charlie/create_tl.html",
         "https://coda-school.github.io/25-html-g5/charlie/search_tl.html",
+        "https://coda-school.github.io/25-html-g5/josserand/",
         "https://coda-school.github.io/25-html-g5/lucas/",
         "https://coda-school.github.io/25-html-g5/lucas/create.html",
         "https://coda-school.github.io/25-html-g5/lucas/search.html",

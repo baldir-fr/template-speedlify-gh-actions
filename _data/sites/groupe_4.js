@@ -10,6 +10,7 @@ module.exports = {
         "https://coda-school.github.io/25-html-g4/", // Ne pas oublier trailing slash
         "https://coda-school.github.io/25-html-g4/accueil.html",
         "https://coda-school.github.io/25-html-g4/themes/acteurs.html",
+        "https://coda-school.github.io/25-html-g4/themes/aie.html",
         "https://coda-school.github.io/25-html-g4/themes/anime.html",
         "https://coda-school.github.io/25-html-g4/themes/choixthemes.html",
         "https://coda-school.github.io/25-html-g4/themes/pokemon.html",
