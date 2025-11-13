@@ -7,8 +7,11 @@ module.exports = {
         freshChrome: "site" // Use "site" if sites are all on the same origin and share assets.
     },
     urls: [
+        "https://coda-school.github.io/25-html-g6/",
         "https://coda-school.github.io/25-html-g6/actualites.html",
         "https://coda-school.github.io/25-html-g6/Evenements.html",
-        "https://coda-school.github.io/25-html-g6/", // Ne pas oublier trailing slash
+        // Anglais
+        "https://coda-school.github.io/25-html-g6/actualites-anglais.html",
+        "https://coda-school.github.io/25-html-g6/index-eng.html",
     ]
 };

@@ -12,5 +12,11 @@ module.exports = {
         "https://coda-school.github.io/25-html-g1/mentions.html",
         "https://coda-school.github.io/25-html-g1/pedago.html",
         "https://coda-school.github.io/25-html-g1/social.html",
+        // version anglaise
+        "https://coda-school.github.io/25-html-g1/bde_en.html",
+        "https://coda-school.github.io/25-html-g1/index_en.html",
+        "https://coda-school.github.io/25-html-g1/mentions_en.html",
+        "https://coda-school.github.io/25-html-g1/pedago_en.html",
+        "https://coda-school.github.io/25-html-g1/social_en.html",
     ]
 };
