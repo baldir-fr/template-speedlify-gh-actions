@@ -7,11 +7,17 @@ module.exports = {
         freshChrome: "site" // Use "site" if sites are all on the same origin and share assets.
     },
     urls: [
-        "https://coda-school.github.io/25-html-g7/", // Ne pas oublier trailing slash
-        "https://coda-school.github.io/25-html-g7/commander/",
-        "https://coda-school.github.io/25-html-g7/contact/",
-        "https://coda-school.github.io/25-html-g7/menu/",
-        // "https://coda-school.github.io/25-html-g7/nos-restaurants/",
-        "https://coda-school.github.io/25-html-g7/restaurants/",
+        "https://coda-school.github.io/25-html-g7/fr/", // Ne pas oublier trailing slash
+        "https://coda-school.github.io/25-html-g7/fr/commander.html",
+        "https://coda-school.github.io/25-html-g7/fr/contact.html",
+        "https://coda-school.github.io/25-html-g7/fr/menu.html",
+        "https://coda-school.github.io/25-html-g7/fr/restaurants.html",
+
+        "https://coda-school.github.io/25-html-g7/en/", // Ne pas oublier trailing slash
+        "https://coda-school.github.io/25-html-g7/en/commander.html",
+        "https://coda-school.github.io/25-html-g7/en/contact.html",
+        "https://coda-school.github.io/25-html-g7/en/menu.html",
+        "https://coda-school.github.io/25-html-g7/en/restaurants.html",
     ]
 };
+
