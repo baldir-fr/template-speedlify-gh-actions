@@ -22,6 +22,27 @@ npm run start
 * Use the [`<speedlify-score>` component](https://github.com/zachleat/speedlify-score) to show your scores on your page. Read more at [I added Lighthouse Scores to my Site’s Footer and You Can Too](https://www.zachleat.com/web/lighthouse-in-footer/)
 * The [Eleventy Starter Projects list](https://www.11ty.dev/docs/starter/) shows Lighthouse scores from Speedlify. Read more at [The Lighthouse Scores Will Continue Until Morale Improves](https://www.zachleat.com/web/11ty-lighthouse/).
 
+## Deploy to GitHub Pages
+
+With provided GitHub Actions run can
+- run analysis periodically
+- when analysis is complete, the site is deployed automatically to GitHub Actions
+
+You'll need to [activate GitHub Pages publication using GitHub Actions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow).
+
+Edit [.github/workflows/run-analysis.yml](.github/workflows/run-analysis.yml) to change analysis periodicity with cron syntax:
+
+```yml
+on:
+  schedule:
+    # The action is triggered periodically “At 20:00 on Monday.” (https://crontab.guru/#0_20_*_*_1)
+    - cron: "0 20 * * 1"
+```
+
+### Special credits
+
+I would like to thank
+
 ## Deploy to Netlify
 
 Can run directly on Netlify (including your tests) and will save the results to a Netlify build cache (via Netlify Build Plugins, see `plugins/keep-data-cache/`).
