@@ -1,6 +1,6 @@
 module.exports = {
 	name: "template",
-	description: "Ce site Speedlify",
+	description: "This Speedlify Site",
     options: {
         runs: 1, // Run sample every time
         frequency: 60 * 24, // Every 1 day
