@@ -2,11 +2,14 @@ name: Speedlify — scan & publish
 
 on:
   schedule:
-    - cron: "0,30 8-18 8-14 11 *"  # Du 8 au 14 de novembre, toutes les 30 minutes entre 9h et 19h
-  workflow_dispatch: {}
+    # The action is triggered periodically “At 20:00 on Monday.” (https://crontab.guru/#0_20_*_*_1)
+    - cron: "0 20 * * 1"
+  # Allows the action to be triggered manually from GitHub "Actions" tab
+  workflow_dispatch: { }
 
 permissions:
   contents: write
+  # Allows other GH actions to be triggered when this one finishes
   actions: write
 
 jobs:
