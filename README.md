@@ -41,7 +41,7 @@ on:
 
 ### Special credits
 
-I would like to thank
+I would like to thank [Yoan Thirion](https://github.com/ythirion) for creating the GitHub Action workflows and tweaking them to allow the page analysis to run on them. 
 
 ## Deploy to Netlify
 
