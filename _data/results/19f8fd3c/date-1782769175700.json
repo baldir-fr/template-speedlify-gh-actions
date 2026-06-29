@@ -1,0 +1,66 @@
+{
+  "url": "https://baldir-fr.github.io/template-speedlify-gh-actions/",
+  "requestedUrl": "https://baldir-fr.github.io/template-speedlify-gh-actions/",
+  "timestamp": 1782769185782,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "12.8.2",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 911.775,
+  "speedIndex": 957.8689999999967,
+  "largestContentfulPaint": 911.775,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 911.7750000000001,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 253.727,
+  "weight": {
+    "summary": "5 requests • 57.5 KiB",
+    "total": 58877,
+    "image": 0,
+    "imageCount": 0,
+    "script": 48022,
+    "scriptCount": 2,
+    "document": 1121,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4346,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 1,
+    "-weight.script": 1,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 76,
+    "violations": 0
+  }
+}
